@@ -38,3 +38,12 @@ h1{
 .highlight{
     background-color: yellow;
 }
+
+thead{
+   background-color: #59a5fc; 
+   color: white;
+}
+
+.riga-blu{
+    background-color: #B1E5F2;
+}
