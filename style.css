@@ -47,3 +47,19 @@ thead{
 .riga-blu{
     background-color: #B1E5F2;
 }
+
+.adv{
+    color: white;
+    background-repeat: no-repeat;
+    width: 312px;
+    height: 208px;
+    padding: 20px;
+}
+
+#monitor{
+    background-image: url(img/monitor.jpg);;
+}
+
+#graph{
+    background-image:url(img/graph.jpg) ;
+}
