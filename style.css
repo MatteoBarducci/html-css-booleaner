@@ -11,3 +11,30 @@ header{
     bottom: 0;
     width: 15%;
 }
+
+h1{
+    margin-bottom: 0;
+}
+
+#speciale1{
+    color: #20A9E5;
+}
+
+.sottotitolo{
+    color: #808080;
+    margin: 0;
+}
+
+.piccolo{
+    font-size: small;
+    margin: 0;
+}
+
+.descrizione{
+    display: block;
+    font-size: x-small;
+}
+
+.highlight{
+    background-color: yellow;
+}
